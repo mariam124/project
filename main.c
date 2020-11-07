@@ -20,7 +20,7 @@ int Max=0;
 
 int main()
 {
-    printf("Enter the number of employees:");
+    //printf("Enter the number of employees:");
     scanf("%d",&n);
     for (i=0;i<n;i++){
        printf("Employee %d:\n",i+1);
